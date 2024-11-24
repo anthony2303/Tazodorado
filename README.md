@@ -18,7 +18,7 @@ Soy el propietario oficial de Nekotina Bot y también brindo soporte técnico pa
 2. Escanea el código QR que aparece en la consola con tu aplicación de WhatsApp.
 3. ¡Listo! El bot comenzará a funcionar en tu cuenta de WhatsApp.
 
-Puedes configurar comandos y personalizar respuestas editando los archivos en la carpeta `/commands`.
+Puedes configurar comandos y personalizar respuestas editando los archivos en la carpeta `/plugins`.
 
 ## Contribución
 
