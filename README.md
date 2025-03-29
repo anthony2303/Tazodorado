@@ -1,8 +1,8 @@
-# Nekotina Bot
+# Totoro Bot
 
-¡Bienvenido a **Nekotina Bot**! Este bot está diseñado para funcionar en WhatsApp, utilizando la potencia de Node.js (v18 o superior). 
+¡Bienvenido a **Totoro Bot**! Este bot está diseñado para funcionar en WhatsApp, utilizando la potencia de Node.js (v18 o superior). 
 
-Soy el propietario oficial de Nekotina Bot y también brindo soporte técnico para **Gatabot**. Este proyecto ha sido desarrollado para ofrecer herramientas y funcionalidades útiles para la administración de grupos y la interacción en WhatsApp.
+Soy el propietaria oficial de Totoro Bot y tambien vendedora de cuentas de streaming. Este proyecto ha sido desarrollado para ofrecer herramientas y funcionalidades útiles para la administración de grupos y la interacción en WhatsApp.
 
 ## Características
 
@@ -22,7 +22,7 @@ Puedes configurar comandos y personalizar respuestas editando los archivos en la
 
 ## Contribución
 
-Las contribuciones son bienvenidas. Si deseas mejorar **Nekotina Bot**, sigue estos pasos:
+Las contribuciones son bienvenidas. Si deseas mejorar **Totoro Bot**, sigue estos pasos:
 
 1. Haz un fork del repositorio.
 2. Crea una rama para tu funcionalidad (`git checkout -b nueva-funcionalidad`).
@@ -31,9 +31,9 @@ Las contribuciones son bienvenidas. Si deseas mejorar **Nekotina Bot**, sigue es
 
 ## Licencia
 
-**Nekotina Bot** está protegido bajo la licencia oficial detallada en el archivo [LICENSE](LICENSE).
+**Totoro Bot** está protegido bajo la licencia oficial detallada en el archivo [LICENSE](LICENSE).
 
 ## Contacto
 
-- **Propietario:** Anthony Mendivil
-- **Correo:** [Anthonymendivil8@gmail.com](mailto:Anthonymendivil8@gmail.com)
+- **Propietaria:** Thalia Jacobo
+- **Correo:** [JacoboRocio61@gmail.com](mailto:JacoboRocio61@gmail.com)
