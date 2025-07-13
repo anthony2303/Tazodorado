@@ -12,13 +12,13 @@ import { en, es, id, ar, pt } from "./lib/idiomas/total-idiomas.js"
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
 // [ES] > Agrega el número que será Bot y los que serán propietarios.
 global.owner = [
-["5214447197875", 'thalia', true], //mi mugrosa
-["5215625060788", 'anthony', true], //el mugroso
-["5213344691132"],
-["5213344800814"]]
+["5212871034488", 'thalia', true], //mi mugrosa
+["5212871034488", 'anthony', true], //el mugroso
+["5212871034488"],
+["5212871034488"]]
 
-global.mods = ["5214447197875"]
-global.prems = ["5214447197875"]
+global.mods = ["5212871034488"]
+global.prems = ["5212871034488"]
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
 
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
@@ -113,9 +113,9 @@ global.moment = moment
 // [ES] > Agregate a ti, colaboradores o ayudates, aparecerá en el comando de lista de contactos.
 // [EN] > Adding yourself, collaborators or helpers will appear in the contact list command.
 global.official = [ // Agregate si eres Owner
-["5214447197875", 'thalia', 1], 
-["5214447197875", 'Thalia', 1],  
-["5214447197875", 'Thaliaa', 1]]
+["5212871034488", 'thalia', 1], 
+["5212871034488", 'Thalia', 1],  
+["5212871034488", 'Thaliaa', 1]]
 
 global.mail = '' // Add email
 global.desc = '' // Add short description (20 caractres max)
@@ -123,8 +123,8 @@ global.desc2 = '' // Add long description (90 caractres max) (Este parámetro se
 global.country = '' // Add country, example: 🇪🇨
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
 
-global.packname = "𝙏𝙤𝙩𝙤𝙧𝙤𝘽𝙤𝙩"
-global.author = "𝙏𝙤𝙩𝙤𝙧𝙤𝘽𝙤𝙩"
+global.packname = "𝙏𝙖𝙯𝙤𝘿𝙤𝙧𝙖𝙙𝙤"
+global.author = "𝙏𝙖𝙯𝙤𝘿𝙤𝙧𝙖𝙙𝙤"
 
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
 // [ES] > INFORMACIÓN DE VERSIONES DEL BOT, POR FAVOR 
@@ -132,7 +132,7 @@ global.author = "𝙏𝙤𝙩𝙤𝙧𝙤𝘽𝙤𝙩"
 // [EN] > BOT VERSION INFORMATION, PLEASE KEEP THIS UNCHANGED, WE STRIVE DAILY TO PROVIDE YOU WITH A BOT FOR THE COMMUNITY, BE GRATEFUL
 global.vs = "1.7.0"
 global.vsJB = "2.5 (Beta)"
-global.gt = "𝙏𝙤𝙩𝙤𝙧𝙤𝘽𝙤𝙩"
+global.gt = "𝙏𝙖𝙯𝙤𝘿𝙤𝙧𝙖𝙙𝙤𝘽𝙤𝙩"
 
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
 
